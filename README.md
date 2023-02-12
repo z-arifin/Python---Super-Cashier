@@ -28,13 +28,21 @@ Based on Andi’s need there is some mandatory feature on our system there are:
 
 add_item ⇒ to add the item name, quantity, and the price
 update_item_name ⇒ to change the item name if the first input is the wrong value
+
 update_item_qty ⇒ to change the quantity if the first input is the wrong value
+
 update_item_price ⇒ to change the price if the first input is the wrong value
+
 delete_item ⇒ to remove one of the items that have been inputted
+
 reset_transaction ⇒ to remove all items
+
 check_order ⇒ to check the item has been inputted in the table form
+
 total_price ⇒ to calculate the total price before discount
+
 total_cost (additional) ⇒ to calculate the total cost after discount
+
 This feature should be arranged on 2 documents py those are:
 
 super_cashier.py (document modular code contains: class and function)
