@@ -26,22 +26,23 @@ The following is a list of requirements to accomplish the project:
 # Function & Attribute
 Based on Andi’s need there is some mandatory feature on our system there are:
 
-add_item ⇒ to add the item name, quantity, and the price
-update_item_name ⇒ to change the item name if the first input is the wrong value
+**add_item** ⇒ to add the item name, quantity, and the price
 
-update_item_qty ⇒ to change the quantity if the first input is the wrong value
+**update_item_name** ⇒ to change the item name if the first input is the wrong value
 
-update_item_price ⇒ to change the price if the first input is the wrong value
+**update_item_qty** ⇒ to change the quantity if the first input is the wrong value
 
-delete_item ⇒ to remove one of the items that have been inputted
+**update_item_price** ⇒ to change the price if the first input is the wrong value
 
-reset_transaction ⇒ to remove all items
+**delete_item** ⇒ to remove one of the items that have been inputted
 
-check_order ⇒ to check the item has been inputted in the table form
+**reset_transaction** ⇒ to remove all items
 
-total_price ⇒ to calculate the total price before discount
+**check_order** ⇒ to check the item has been inputted in the table form
 
-total_cost (additional) ⇒ to calculate the total cost after discount
+**total_price** ⇒ to calculate the total price before discount
+
+**total_cost** (additional) ⇒ to calculate the total cost after discount
 
 This feature should be arranged on 2 documents py those are:
 
